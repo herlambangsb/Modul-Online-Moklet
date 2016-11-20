@@ -18,26 +18,38 @@
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_weight="0.28"
-        android:focusable="false"
-        android:fontFamily="sans-serif"
-        android:gravity="center"
-        android:text="INI MODUL SAYA" />
+        android:layout_gravity="center"
+        android:layout_weight="0.30"
+        android:clickable="false"
+        android:gravity="center_horizontal|center"
+        android:nestedScrollingEnabled="false"
+        android:scrollHorizontally="false"
+        android:text="MODUL ONLINE MOKLET"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        android:textSize="30sp"
+        android:textStyle="normal|bold"
+        tools:verticalScrollbarPosition="defaultPosition" />
 
     <ImageButton
-        android:id="@+id/imageButton"
-        android:layout_width="292dp"
+        android:id="@+id/imagemodul"
+        android:layout_width="match_parent"
         android:layout_height="125dp"
-        android:layout_margin="30dp"
+        android:layout_marginBottom="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="30dp"
         android:layout_weight="0.25"
-        app:srcCompat="@mipmap/ic_launcher" />
+        android:background="@drawable/buku" />
 
     <ImageButton
-        android:id="@+id/imageButton4"
-        android:layout_width="292dp"
+        android:id="@+id/imageabout"
+        android:layout_width="match_parent"
         android:layout_height="125dp"
-        android:layout_margin="30dp"
+        android:layout_marginBottom="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="30dp"
         android:layout_weight="0.25"
-        app:srcCompat="@mipmap/ic_launcher" />
+        android:background="@drawable/orang" />
 
 </LinearLayout>

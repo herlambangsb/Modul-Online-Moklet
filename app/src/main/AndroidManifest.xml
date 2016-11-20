@@ -7,7 +7,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
+        android:theme="@style/MyMaterialTheme">
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -15,6 +15,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".modul" />
+        <activity android:name=".about" />
+        <activity android:name=".fragments.OneFragment" />
+        <activity android:name=".fragments.TwoFragment" />
+        <activity android:name=".fragments.ThreeFragment" />
+        <activity android:name=".fragments.FourFragment" />
+        <activity android:name=".fragments.FiveFragment"></activity>
     </application>
 
 </manifest>
