@@ -17,6 +17,10 @@
         </activity>
         <activity android:name=".modul" />
         <activity android:name=".about" />
+        <activity android:name=".asha" />
+        <activity android:name=".aji"/>
+        <activity android:name=".desta"/>
+        <activity android:name=".sadil"/>
         <activity android:name=".fragments.OneFragment" />
         <activity android:name=".fragments.TwoFragment" />
         <activity android:name=".fragments.ThreeFragment" />

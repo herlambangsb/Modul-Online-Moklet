@@ -1,16 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_about"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:gravity="fill_vertical"
-    android:orientation="horizontal"
+    android:gravity="fill_horizontal"
     android:paddingBottom="@dimen/activity_vertical_margin"
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:weightSum="1"
-    tools:context="id.sch.smktelkom_mlg.project.xirpl209182736.modulonlinemoklet.about">
+    tools:context="id.sch.smktelkom_mlg.project.xirpl209182736.modulonlinemoklet.about"
+    android:orientation="vertical">
 
+
+    <Button
+        android:text="asha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/aboutasha"
+        android:layout_weight="0.31"
+        android:background="@android:color/holo_blue_bright" />
+
+    <Button
+        android:text="AJI"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/aboutaji"
+        android:layout_weight="0.30"
+        android:background="@android:color/holo_green_light" />
+
+    <Button
+        android:text="Desta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/aboutdesta"
+        android:layout_weight="0.34"
+        android:background="@android:color/holo_orange_light" />
+
+    <Button
+        android:text="sadil"
+        android:layout_width="match_parent"
+        android:layout_height="131dp"
+        android:id="@+id/aboutsadil"
+        android:background="@android:color/holo_purple"
+        android:layout_weight="0.12" />
 </LinearLayout>
