@@ -13,10 +13,7 @@ import android.view.MenuItem;
 import java.util.ArrayList;
 import java.util.List;
 
-import id.sch.smktelkom_mlg.project.xirpl209182736.modulonlinemoklet.fragments.FiveFragment;
-import id.sch.smktelkom_mlg.project.xirpl209182736.modulonlinemoklet.fragments.FourFragment;
 import id.sch.smktelkom_mlg.project.xirpl209182736.modulonlinemoklet.fragments.OneFragment;
-import id.sch.smktelkom_mlg.project.xirpl209182736.modulonlinemoklet.fragments.ThreeFragment;
 import id.sch.smktelkom_mlg.project.xirpl209182736.modulonlinemoklet.fragments.TwoFragment;
 
 public class modul extends AppCompatActivity {
@@ -46,9 +43,6 @@ public class modul extends AppCompatActivity {
         ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
         adapter.addFragment(new OneFragment(), "ONE");
         adapter.addFragment(new TwoFragment(), "TWO");
-        adapter.addFragment(new ThreeFragment(), "THREE");
-        adapter.addFragment(new FourFragment(), "FOUR");
-        adapter.addFragment(new FiveFragment(), "FIVE");
         viewPager.setAdapter(adapter);
     }
 
