@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\TA\ModulOnlineMoklet\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="D:\TA\ModulOnlineMoklet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.0.1_e00fe4d27cf140b9292f733e3e13becacf3030f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TA\ModulOnlineMoklet\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\TA\ModulOnlineMoklet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.1_53173e46e75c62052139969ed1f3dfe6a2285f2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TA\ModulOnlineMoklet\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="D:\TA\ModulOnlineMoklet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.0.1_955aa24ea2c9d16079829f9a43d6037c46bb0a33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TA\ModulOnlineMoklet\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\TA\ModulOnlineMoklet\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_67d6ed2ae5c6a1b1ba17794cb5b61ea39432c94f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TA\ModulOnlineMoklet\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ee69ed4cff1e77aebbb8ec188dc5c1e9ab581ebe">
+        <dex dex="D:\TA\ModulOnlineMoklet\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6c18567fd04312e5ace87e17715b39757dc18b1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Herlambangsb\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\TA\ModulOnlineMoklet\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_abb9e40956114c244425402bda839687a75fa4c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TA\ModulOnlineMoklet\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\TA\ModulOnlineMoklet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_5b074b24c6defbbf13c2053f29bac917d30738f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TA\ModulOnlineMoklet\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a4cb2f05f60c1782cab2f54c28c94b0f5b73bf1d">
+        <dex dex="D:\TA\ModulOnlineMoklet\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4528fa9c6470fceb3a5d6d10113a5d0c9a31a125\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TA\ModulOnlineMoklet\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="D:\TA\ModulOnlineMoklet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.0.1_1c1323bc7d8cee2aa2a8b9650f95daea255b0128\classes.dex" />
+    </item>
+
+</items>
